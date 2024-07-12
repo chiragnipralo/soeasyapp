@@ -1,0 +1,6 @@
+{
+  "appId": "com.soeasyapp.app",
+  "appName": "SoEasy",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

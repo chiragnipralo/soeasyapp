@@ -1,0 +1,7 @@
+{
+  "name": "neweasy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
